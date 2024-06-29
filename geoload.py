@@ -15,7 +15,7 @@ import sys
 # If you are in China this URL might work (with key):
 # serviceurl = "http://maps.google.cn/maps/api/geocode/json?"
 
-api_key = 'AIzaSyBWGLTeq0iDpRaF3ZGPSle8iOC-D5unTyM'
+api_key = '******'
 
 if api_key is False:
     serviceurl = "http://python-data.dr-chuck.net/geojson?"
